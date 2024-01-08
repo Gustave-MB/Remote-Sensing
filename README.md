@@ -49,7 +49,4 @@ Stay tuned for additional modules and files to be developed in this repository, 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-Happy coding!
-```
+This project is licensed under the [MIT License](https://github.com/Gustave-MB/Remote-Sensing/blob/main/LICENSE).
