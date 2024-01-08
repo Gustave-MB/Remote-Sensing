@@ -109,10 +109,10 @@ class SpectralIndices:
 
 
 
-
-# Example usage:
-# Assume 'image_data' is a 3D numpy array representing spectral bands of an image
-# For simplicity, let's assume the shape is (height, width, num_bands).
+""""
+Example usage:
+Assume 'image_data' is a 3D numpy array representing spectral bands of an image
+For simplicity, let's assume the shape is (height, width, num_bands).
 image_data = np.random.rand(100, 100, 10)  # Example random data
 
 spectral_indices_calculator = SpectralIndices(image_data)
@@ -120,6 +120,4 @@ spectral_indices_calculator = SpectralIndices(image_data)
 ndvi_result = spectral_indices_calculator.ndvi()
 evi_result = spectral_indices_calculator.evi()
 ndwi_result = spectral_indices_calculator.ndwi()
-
-# Use the computed indices as needed.
-
+"""
